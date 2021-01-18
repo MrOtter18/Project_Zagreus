@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: University of Surrey Students Page
+    url: "https://surreyfess.uni-truths.com/"
+    location: Surrey, United Kingdom
+    # company overview
+    overview: 
+  positions:
+  - designation: System Administrator
+    start: July 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Curating content depending on the political spectrum/wave, how it might affect, and be accepted by the masses.
+    - Take key decisions that affect the well-being of students and university staff.
+    - Be an active and responsive listener to students and staff.
+    - Created a board of admins that led to more unbiased filtering and quicker response time.
+    - Helping and guiding sub-admins
+    - Created and encouraged a community-based report system.
+
+- company:
+    name: EcoProgress
+    url: "http://ekoprogres.haskovo.bg/"
+    location: Haskovo, Bulgaria
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Software Developer
+    start: September 2019
+    end: September 2019
+    responsibilities:
+    - Research the needs of the client and his struggles.
+    - Cooperate with employees in order to create a clean interface with simple yet intuitive interactions and experiences.
+    - Develop software that would ease the work of the accountants and the management of the money in the vault.
